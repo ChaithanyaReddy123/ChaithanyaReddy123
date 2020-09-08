@@ -6,7 +6,7 @@ I mainly focus on **WEB DEVELOPMENT**.Interested in Programming.
 ###### My work :point_down:
 
 [My Introduction Website](https://chaithanyareddy123.github.io/Intro/)
-[![Donation Website](https://www.the-espgroup.com/wp-content/uploads/2018/11/children-in-need.png=50x50)](https://4-the-children.000webhostapp.com/)
+[![Donation Website](https://www.the-espgroup.com/wp-content/uploads/2018/11/children-in-need.png | width=100)](https://4-the-children.000webhostapp.com/)
 
 
 
