@@ -5,8 +5,8 @@ I mainly focus on **WEB DEVELOPMENT**.Loves to **Code**.Recently completed an In
 
 ###### My work :point_down:
 
-[My Introduction Website](https://chaithanyareddy123.github.io/Intro/) :sparkling_heart:
-[Donation Website](https://4-the-children.000webhostapp.com/) :pray:
+[Introduction Website](https://chaithanyareddy123.github.io/Intro/) :sparkling_heart:
+* [Donation Website](https://4-the-children.000webhostapp.com/) :pray:
 
 
 
