@@ -14,7 +14,7 @@ Loves to **CODE**.
 
 
 
- [![LinkedIn](http://i.imgur.com/rwYRqn6.png])](https://www.linkedin.com/in/chaithanya-n-b86764191/)
+ [![LinkedIn](https://drive.google.com/file/d/1PyvVyeRuit_CaZT4nwm_WEoMed13_LSE/view?usp=sharing)](https://www.linkedin.com/in/chaithanya-n-b86764191/)
  [![Twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/nchAAithu7)
  [![Facebook](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/ChAAithu/)
  [![Instagram](https://www.flaticon.com/premium-icon/icons/svg/2956/2956122.svg)](https://www.instagram.com/chaithu_reddy_07/?hl=en)
