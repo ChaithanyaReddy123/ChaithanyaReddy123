@@ -1,7 +1,8 @@
 ## Hello Everyone 👋
 I am ***Chaithanya*** from Andhra Pradesh,India.Currently Studing B.tech in CSE(3rd year) at **AMRIRA VISHWA VIDYAPEETHAM**,Amritapuri,Kerala,India.
 
-I mainly focus on **WEB DEVELOPMENT**.Loves to **CODE**.Recently completed an Internship on Web Development.
+I mainly focus on **WEB DEVELOPMENT**.
+Loves to **CODE**.
 
 ###### My work :point_down:
 
