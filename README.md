@@ -1,7 +1,7 @@
 ## Hello Everyone 👋
 I am ***Chaithanya*** from Andhra Pradesh,India. Currently Studing B.tech 3rd year at **Amrita Vishwa Vidyapeetam**,Amritapuri,Kerala,India.
 
-• :zap: I am currently working on **Open CV**.\
+• :zap: I'm currently working on **ML Project**.\
 • :dart: I mainly focus on **Web Development**.\
 • :on: Loves to **Code**.
 
