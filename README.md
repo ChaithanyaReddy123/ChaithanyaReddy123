@@ -1,11 +1,11 @@
 ## Hello Everyone 👋
-### I am **Chaithanya** from Andhra Pradesh,India.Currently Studing B.tech 3rd year at **AMRIRA VISHWA VIDYAPEETHAM**,Amritapuri,Kerala,India.
-#### I mainly focus on **WEB DEVELOPMENT**.Interested in Programming.
+##### I am **Chaithanya** from Andhra Pradesh,India.Currently Studing B.tech 3rd year at **AMRIRA VISHWA VIDYAPEETHAM**,Amritapuri,Kerala,India.
+##### I mainly focus on **WEB DEVELOPMENT**.Interested in Programming.
 
-##### My work :point_down:
+###### My work :point_down:
 
 [My Introduction Website](https://chaithanyareddy123.github.io/Intro/)
-[![Donation Website](C:\Users\chait\Desktop\4-The-Children/children-in-need.png)](https://4-the-children.000webhostapp.com/)
+[![Donation Website](Pictures/children-in-need.png)](https://4-the-children.000webhostapp.com/)
 
 
 
