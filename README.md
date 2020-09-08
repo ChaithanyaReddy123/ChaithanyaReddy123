@@ -10,7 +10,7 @@ I mainly focus on **WEB DEVELOPMENT**.Loves to **CODE**.Recently completed an In
 
 ###### Social Media :
 
-* [LinkedIn](https://www.iconninja.com/files/646/741/224/original-linkedin-color-icon.png)
+* [![LinkedIn](https://www.iconninja.com/files/646/741/224/original-linkedin-color-icon.png)](https://www.linkedin.com/in/chaithanya-n-b86764191/)
 * [Instagram]
 
 
