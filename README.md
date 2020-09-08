@@ -15,7 +15,7 @@ I am ***Chaithanya*** from Andhra Pradesh,India.Currently Studing B.tech in CSE(
 
  [![LinkedIn](https://www.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-32.png)](https://www.linkedin.com/in/chaithanya-n-b86764191/)
  [![Twitter](https://www.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Twitter_svg-32.png)](https://twitter.com/nchAAithu7)
- [![Facebook](https://www.iconfinder.com/data/icons/black-white-social-media/32/online_social_media_facebook-32.png)](https://www.facebook.com/ChAAithu/)
+ [![Facebook](https://www.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Facebook_svg-32.png)](https://www.facebook.com/ChAAithu/)
  [![Instagram](https://www.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-32.png)](https://www.instagram.com/chaithu_reddy_07/?hl=en)
 
 
