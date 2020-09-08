@@ -8,6 +8,11 @@ I mainly focus on **WEB DEVELOPMENT**.Loves to **CODE**.Recently completed an In
 * [Introduction Website](https://chaithanyareddy123.github.io/Intro/) :sparkling_heart:
 * [Donation Website](https://4-the-children.000webhostapp.com/) :pray:
 
+###### Social Media :
+
+* [LinkedIn](https://www.iconninja.com/files/646/741/224/original-linkedin-color-icon.png)
+* [Instagram]
+
 
 
 
