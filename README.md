@@ -8,9 +8,14 @@ I mainly focus on **WEB DEVELOPMENT**.Loves to **CODE**.Recently completed an In
 * [Introduction Website](https://chaithanyareddy123.github.io/Intro/) :sparkling_heart:
 * [Donation Website](https://4-the-children.000webhostapp.com/) :pray:
 
-###### Social Media :speech_balloon:
- [![LinkedIn](http://i.imgur.com/tXSoThF.png)](https://www.linkedin.com/in/chaithanya-n-b86764191/)
- [![Instagram](http://i.imgur.com/P3YfQoD.png)](https://www.instagram.com/chaithu_reddy_07/?hl=en)
+
+
+
+
+ [![LinkedIn](https://i.imgur.com/rwYRqn6.png)](https://www.linkedin.com/in/chaithanya-n-b86764191/)
+ [![Twitter](http://i.imgur.com/tXSoThF.png)](https://twitter.com/nchAAithu7)
+ [![Facebook](http://i.imgur.com/P3YfQoD.png)](https://www.facebook.com/ChAAithu/)
+ [![Instagram](https://i.imgur.com/vDwU6AL.png)](https://www.instagram.com/chaithu_reddy_07/?hl=en)
 
 
 
