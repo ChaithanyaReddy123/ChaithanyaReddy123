@@ -1,16 +1,17 @@
 ## Hello Everyone 👋
 I am ***Chaithanya*** from Andhra Pradesh,India. Currently Studing B.tech 3rd year at **Amrita Vishwa Vidyapeetam**,Amritapuri,Kerala,India.
 
+• :zap: I am currently working on **Open CV**.\
 • :dart: I mainly focus on **Web Development**.\
-• :on: Loves to **Code**.\
-• :zap: I am currently working on **Open CV**.
+• :on: Loves to **Code**.
 
-###### My work :point_down:
+
+##### My work :point_down:
 
 * [Introduction Website](https://chaithanyareddy123.github.io/Intro/) :sparkling_heart:
 * [Donation Website](https://4-the-children.000webhostapp.com/) :pray:
 
-###### You can contact me through this mail :point_right: :e-mail: <chaithureddy2001@gmail.com>
+##### You can contact me through this mail :point_right: :e-mail: <chaithureddy2001@gmail.com>
 
 [![LinkedIn][1.1]][1]
 [![Twitter][2.1]][2]
