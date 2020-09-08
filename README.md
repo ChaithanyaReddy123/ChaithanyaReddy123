@@ -10,8 +10,7 @@ I mainly focus on **WEB DEVELOPMENT**.Loves to **CODE**.Recently completed an In
 
 ###### Social Media :speech_balloon:
  [![LinkedIn](http://i.imgur.com/tXSoThF.png)](https://www.linkedin.com/in/chaithanya-n-b86764191/)
- 
- [![Instagram](https://www.iconfinder.com/data/icons/2019-social-media/512/social_media-04-128.png)](https://www.instagram.com/chaithu_reddy_07/?hl=en)
+ [![Instagram](http://i.imgur.com/P3YfQoD.png)](https://www.instagram.com/chaithu_reddy_07/?hl=en)
 
 
 
