@@ -14,15 +14,6 @@ Always eager to collaborate, mentor, and explore emerging technologies that push
 
 ##### You can contact me through this mail :point_right: :e-mail: <chaithureddy2001@gmail.com> | <chaithanya.n2001@gmail.com>
 
-[![LinkedIn][1.1]][1]
-[![Twitter][2.1]][2]
-[![Facebook][3.1]][3]
-[![Instagram][4.1]][4]
-
-
-[1]: https://www.linkedin.com/in/chaithanya-n-b86764191/
-
-
 
 <!--
 **ChaithanyaReddy123/ChaithanyaReddy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
