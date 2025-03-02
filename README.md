@@ -11,7 +11,7 @@ I am ***Chaithanya*** from Andhra Pradesh,India. Currently Studing B.tech 3rd ye
 * [Introduction Website](https://chaithanyareddy123.github.io/Intro/) :sparkling_heart:
 * [Donation Website](https://4-the-children.000webhostapp.com/) :pray:
 
-##### You can contact me through this mail :point_right: :e-mail: <chaithureddy2001@gmail.com>
+##### You can contact me through this mail :point_right: :e-mail: <chaithureddy2001@gmail.com> | <chaithanya.n2001@gmail.com>
 
 [![LinkedIn][1.1]][1]
 [![Twitter][2.1]][2]
