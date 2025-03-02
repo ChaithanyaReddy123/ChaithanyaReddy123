@@ -1,6 +1,6 @@
 ## Hello Everyone 👋
 I am ***Chaithanya*** from Andhra Pradesh,India. Currently working as full stack engineer at OPTUM with over 2.5 years of experience.
-Passionate Full Stack Developer with 2.7+ years of experience in designing and deploying scalable web applications that enhance performance and user experience. I enjoy tackling algorithmic challenges, optimizing code, and solving real-world problems using DSA and system design principles. 
+I enjoy tackling algorithmic challenges, optimizing code, and solving real-world problems using DSA and system design principles. 
 
 My ability to debug complex issues and improve application performance makes me an asset in fast-paced agile environments.
 
