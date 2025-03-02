@@ -19,15 +19,8 @@ Always eager to collaborate, mentor, and explore emerging technologies that push
 [![Facebook][3.1]][3]
 [![Instagram][4.1]][4]
 
-[1.1]: https://www.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-32.png
-[2.1]: https://www.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Twitter_svg-32.png
-[3.1]: https://www.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Facebook_svg-32.png
-[4.1]: https://www.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-32.png
 
 [1]: https://www.linkedin.com/in/chaithanya-n-b86764191/
-[2]: https://twitter.com/nchAAithu7
-[3]: https://www.facebook.com/ChAAithu/
-[4]: https://www.instagram.com/chaithu_reddy_07/?hl=en
 
 
 
